@@ -1,7 +1,7 @@
 [project]
 name = "Análisis de sentimientos"
 version = "0.1.0"
-description = "Queremos determinar la percepción que tienen los usuarios acerca de un producto o servicio analizando sus publicaciones y comentarios en redes sociales como Twitter, Facebook o Instagram."
+description = "Análisis de sentimiento en TikTok sobre el TDAH con humor"
 authors = [
     "Daniel Herrera <dherrerarubio@gmail.com>",
 ]

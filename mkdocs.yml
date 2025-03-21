@@ -1,4 +1,4 @@
-site_name: "Análisis de sentimientos"
+site_name: "Humor y TDAH en Tiktok - Documentación"
 repo_url: "https://github.com/DanielHre/análisis-de-sentimientos"
 
 theme:
@@ -18,7 +18,9 @@ theme:
     - navigation.path
 
 nav:
-  - Introduction: 'index.md'
+  - Inicio: 'index.md'
+  - Plan de Investigación: research_plan.md
+  - Referencias: refs/index.md
 
 
 markdown_extensions:
