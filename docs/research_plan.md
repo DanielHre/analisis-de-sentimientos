@@ -62,3 +62,6 @@ Asegurarse de no divulgar información personal de los usuarios.
 
 ### Sensibilidad del Tema:
 Dado que se trata de un tema delicado (TDAH), es importante abordar la investigación con respeto y rigor, evitando interpretaciones que puedan resultar estigmatizantes o despectivas.
+
+## 7. Referencias
+Se incluirán en la carpeta `refs/` los artículos y estudios previos que respalden la investigación.
