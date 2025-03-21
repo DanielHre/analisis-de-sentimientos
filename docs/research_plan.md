@@ -34,10 +34,10 @@ El uso del humor en el video, junto con la invitación a etiquetar amigos con TD
 ### Diseño del Estudio:
 1. *Tipo de Investigación*: Cuantitativa, con elementos cualitativos para interpretar contextos específicos.
 2. *Fuentes de Datos*: Comentarios de TikTok del video en cuestión.
-3. *Técnicas de Recolección de Datos: Utilización de herramientas de scraping o APIs (si están disponibles) para extraer los comentarios.
-4. *Análisis de Datos:
-    a. *Pre-procesamiento: Limpieza y normalización de textos.
-    b. *Clasificación de Sentimiento: Aplicación de modelos de NLP (por ejemplo, usando Python y bibliotecas como NLTK, spaCy o modelos preentrenados adaptados al español).
+3. *Técnicas de Recolección de Datos*: Utilización de herramientas de scraping o APIs (si están disponibles) para extraer los comentarios.
+4. *Análisis de Datos*:
+    a. Pre-procesamiento: Limpieza y normalización de textos.
+    b. Clasificación de Sentimiento: Aplicación de modelos de NLP (por ejemplo, usando Python y bibliotecas como NLTK, spaCy o modelos preentrenados adaptados al español).
     c. *Visualización*: Gráficos visuales para mostrar la distribución del sentimiento y análisis de correlación entre etiquetas y comentarios.
 5. *Interpretar Resultados*: Reflexionar sobre cómo el uso del humor y la invitación a etiquetar influyen en la percepción del TDAH y proponer recomendaciones para abordar de manera responsable temas sensibles en redes sociales.
 
